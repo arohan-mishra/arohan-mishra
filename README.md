@@ -30,6 +30,12 @@ Here are some ideas to get you started: -->
 <h4 align="center">Languages</h4>
 <p align = "center">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height = "50">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height = "50">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height = "50">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height = "50">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height = "50">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height = "50">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height = "50">
   
 </p>
 <h2 align="center">Github stats :bar_chart:</h2>
