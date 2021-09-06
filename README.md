@@ -43,9 +43,9 @@ Here are some ideas to get you started: -->
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height = "50">
-  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height = "50">
-  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-original.svg" height = "50">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" height = "50">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height = "50">
 </p>
 <br><br>
 <h2 align="center">Github stats :bar_chart:</h2>
