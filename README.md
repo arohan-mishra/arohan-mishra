@@ -43,7 +43,7 @@ Here are some ideas to get you started: -->
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height = "50">
-  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" height = "50">
+  <img src ="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" height = "50">
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
