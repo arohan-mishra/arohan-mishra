@@ -44,9 +44,8 @@ Here are some ideas to get you started: -->
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height = "50">
-  <img src ="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" height = "50">
-  <img src ="https://images.fmctraining.com/images/ae-appicon-noshadow-1024.png" height = "50">
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" height = "50">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height = "50">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-original.svg" height = "50">
 </p>
 <br><br>
 <h2 align="center">Github stats :bar_chart:</h2>
