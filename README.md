@@ -26,7 +26,12 @@ Here are some ideas to get you started: -->
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-
+<h2 align="center">Tech stack 👨‍💻</h2>
+<h4 align="center">Languages</h4>
+<p align = "center">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height = "50">
+  
+</p>
 <h2 align="center">Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{arohan-mishra}/count.svg" alt="arohan-mishra :: Visitor's Count" /></p>
