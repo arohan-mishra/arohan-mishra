@@ -35,5 +35,5 @@ Here are some ideas to get you started: -->
 <h4 align="center">Profile stats </h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arohan-mishra&show_icons=true&theme=synthwave" alt="arohan-mishra :: Profile Stats" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=arohan-mishra&theme=synthwave"></p>
-<p align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/779606193191492986/AC6768B668CDCA9001D097BB3B50C8B1AA4ADEFA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://static.skillshare.com/uploads/users/tmp/70f550be" alt="Synthwave" height="300" width="500"></p>
 
