@@ -4,7 +4,7 @@
 Here are some ideas to get you started: -->
 
 <p align="center">
-  <img src="https://github.com/arohan-mishra/arohan-mishra/blob/main/img/hello-avatar.gif" height="200"/>
+  <img src="https://github.com/arohan-mishra/arohan-mishra/blob/main/img/hello-avatar.gif" height="400"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Arohan Mishra</h1>
