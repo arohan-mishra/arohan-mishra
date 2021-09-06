@@ -11,8 +11,8 @@ Here are some ideas to get you started: -->
 <h3 align="center">Web developer | Graphic Designer | ML enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/arohan-mishra-8b60111b3/" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="aksia" height="50" width="50" /></a>
- <a href = "mailto: arohanmishra925@gmail.com"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" height="50" width="100" /></a>
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="aksia" height="40" width="40" /></a>
+ <a href = "mailto: arohanmishra925@gmail.com"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" height="40" width="80" /></a>
 </p>
 </p>
 
@@ -35,5 +35,5 @@ Here are some ideas to get you started: -->
 <h4 align="center">Profile stats </h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arohan-mishra&show_icons=true&theme=synthwave" alt="arohan-mishra :: Profile Stats" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=arohan-mishra&theme=synthwave"></p>
-<p align="center"><img src="https://c.tenor.com/GiO4XNKti44AAAAd/retrowave-synthwave.gif"></p>
+<p align="center"><img src="https://c.tenor.com/GiO4XNKti44AAAAd/retrowave-synthwave.gif" height = "200"></p>
 
