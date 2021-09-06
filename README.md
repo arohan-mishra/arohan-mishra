@@ -22,10 +22,8 @@ Here are some ideas to get you started: -->
     I am just a newbie to this tech world. I'm currently learning Machine Learning and Web Development and I also love to design (a LOTTT). <br>
   I hope one day my skills can be helpful to someone! Ciao!!!
   </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
-<br><br>
+<br>
 <h2 align="center">Tech stack 👨‍💻</h2>
 <h4 align="center">Languages</h4>
 <p align = "center">
@@ -46,7 +44,7 @@ Here are some ideas to get you started: -->
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width = "50">
 </p>
-<br><br>
+<br>
 <h2 align="center">Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{arohan-mishra}/count.svg" alt="arohan-mishra :: Visitor's Count" /></p>
