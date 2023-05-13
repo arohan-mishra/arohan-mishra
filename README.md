@@ -18,9 +18,9 @@ Here are some ideas to get you started: -->
 
 <p align="center">
   <em>
-    This is ME, Arohan Mishra, a <b>Pre-Final year</b> undergraduate from <b>Vellore Institute of Technology</b>, Vellore</a>. <br>
-    I am just a newbie to this tech world. I'm currently learning Machine Learning and Web Development and I also love to design (a LOTTT). <br>
-  I hope one day my skills can be helpful to someone! Ciao!!!
+    This is ME, Arohan Mishra, a <b>Final year</b> student at <b>Vellore Institute of Technology</b>, Vellore</a>. <br>
+    I like to explore new technologies which can be used to solve real-life problems. I am fluent in various programming languages and have basic knowledge of software development and artificial intelligence. I also have a keen interest in designing.<br>
+    I hope I can make a career in research in the field of Artificial Intelligence. Ciao!!!
   </em> 
 </p>
 <br>
@@ -33,16 +33,16 @@ Here are some ideas to get you started: -->
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width = "50">
-  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width = "50">
 </p>
 <h4 align="center">Tools and Software</h4>
 <p align = "center">
-  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width = "50">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width = "50">
-  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width = "50">
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width = "50">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width = "50">
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" width = "50">
 </p>
 <br>
 <h2 align="center">Github stats :bar_chart:</h2>
