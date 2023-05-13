@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Arohan Mishra</h1>
-<h3 align="center">Web developer | Graphic Designer | ML enthusiast</h3>
+<h3 align="center">Upcoming Data Engineer @ IBM, Mumbai</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/arohan-mishra-8b60111b3/" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="aksia" height="40" width="40" /></a>
