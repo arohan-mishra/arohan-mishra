@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Arohan Mishra</h1>
-<h3 align="center">Upcoming Data Engineer @ IBM, Mumbai</h3>
+<h3 align="center">Masters Student @ Monash University, Clayton</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/arohan-mishra-8b60111b3/" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="aksia" height="40" width="40" /></a>
@@ -18,9 +18,9 @@ Here are some ideas to get you started: -->
 
 <p align="center">
   <em>
-    This is ME, Arohan Mishra, a <b>Final year</b> student at <b>Vellore Institute of Technology</b>, Vellore</a>. <br>
-    I like to explore new technologies which can be used to solve real-life problems. I am fluent in various programming languages and have basic knowledge of software development and artificial intelligence. I also have a keen interest in designing.<br>
-    I hope I can make a career in research in the field of Artificial Intelligence. Ciao!!!
+    This is ME, Arohan Mishra, a <b>Masters of Information Technology</b> student at <b>Monash University</b>, Clayton</a>. <br>
+    I like to explore new technologies which can be used to solve real-life problems. I am fluent in various programming languages and have experience in various fields like software development, automation quality assurance, generative AI development. I also have a keen interest in designing.<br>
+    Looking forward to connect with people of similar interests. Ciao!!!
   </em> 
 </p>
 <br>
@@ -45,13 +45,13 @@ Here are some ideas to get you started: -->
   <img src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" width = "50">
 </p>
 <br>
-<h2 align="center">Github stats :bar_chart:</h2>
+<!-- <h2 align="center">Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{arohan-mishra}/count.svg" alt="arohan-mishra :: Visitor's Count" /></p>
 <h4 align="center">Top languages </h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arohan-mishra&langs_count=10&theme=tokyonight&layout=compact" alt="arohan-mishra :: Top Languages" /></p>
 <h4 align="center">Profile stats </h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arohan-mishra&show_icons=true&theme=synthwave" alt="arohan-mishra :: Profile Stats" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=arohan-mishra&theme=synthwave"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=arohan-mishra&theme=synthwave"></p> -->
 <p align="center"><img src="https://i.pinimg.com/originals/2f/f6/85/2ff68556b9d25c1aed0d365af26a8042.gif" alt="Synthwave" height="300" width="500"></p>
 
